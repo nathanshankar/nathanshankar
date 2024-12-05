@@ -1,0 +1,3 @@
+[submodule "submodules/serp_api_extracter"]
+	path = submodules/serp_api_extracter
+	url = https://github.com/juanjqo/serp_api_extracter.git
