@@ -2,13 +2,13 @@
 
 
 
-### Hi there 👋
+### Hi there, I'm Nathan Shankar 👋🤖
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nathanshankar&theme=dark)](https://github.com/nathanshankar/github-profile-trophy)
+[![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanshankar)](https://github.com/nathanshankar/github-readme-stats)
 
-[![stats](https://github-readme-stats.vercel.app/api?username=nathanshankar)](https://github.com/nathanshankar/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanshankar&layout=compact)
+![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanshankar&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-
+![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanshankar&show_icons=true&theme=radical)
 
 <!--
 **nathanshankar/nathanshankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
