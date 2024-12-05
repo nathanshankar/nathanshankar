@@ -1,0 +1,296 @@
+{
+"id":
+"6751c48490b57c4e04eee0e4",
+"status":
+"Success",
+"json_endpoint":
+"https://serpapi.com/searches/2b4639f856158b7c/6751c48490b57c4e04eee0e4.json",
+"created_at":
+"2024-12-05 15:19:32 UTC",
+"processed_at":
+"2024-12-05 15:19:32 UTC",
+"google_scholar_author_url":
+"https://scholar.google.com/citations?user=RqoQgLYAAAAJ&hl=en",
+"raw_html_file":
+"https://serpapi.com/searches/2b4639f856158b7c/6751c48490b57c4e04eee0e4.html",
+"total_time_taken":
+1.12
+},
+"search_parameters":
+{
+"engine":
+"google_scholar_author",
+"author_id":
+"RqoQgLYAAAAJ",
+"hl":
+"en"
+},
+"author":
+{
+"name":
+"Nathan Shankar",
+"affiliations":
+"Vellore Institue of Technology",
+"email":
+"Verified email at vitstudent.ac.in",
+"interests":
+[
+{
+"title":
+"Robotics",
+"link":
+"https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:robotics",
+"serpapi_link":
+"https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Arobotics"
+},
+{
+"title":
+"IoT",
+"link":
+"https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:iot",
+"serpapi_link":
+"https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aiot"
+},
+{
+"title":
+"Electric Vehicles",
+"link":
+"https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:electric_vehicles",
+"serpapi_link":
+"https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aelectric_vehicles"
+},
+{
+"title":
+"Power Systems",
+"link":
+"https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:power_systems",
+"serpapi_link":
+"https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apower_systems"
+}
+],
+"thumbnail":
+"https://scholar.googleusercontent.com/citations?view_op=view_photo&user=RqoQgLYAAAAJ&citpid=1"
+},
+"articles":
+[
+{
+"title":
+"Battery management solutions for li-ion batteries based on artificial intelligence",
+"link":
+"https://scholar.google.com/citations?view_op=view_citation&hl=en&user=RqoQgLYAAAAJ&citation_for_view=RqoQgLYAAAAJ:9yKSN-GCB0IC",
+"citation_id":
+"RqoQgLYAAAAJ:9yKSN-GCB0IC",
+"authors":
+"Y Khawaja, N Shankar, I Qiqieh, J Alzubi, O Alzubi, MK Nallakaruppan, ...",
+"publication":
+"Ain Shams Engineering Journal 14 (12), 102213, 2023",
+"cited_by":
+{
+"value":
+54,
+"link":
+"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14079772844833725515",
+"serpapi_link":
+"https://serpapi.com/search.json?cites=14079772844833725515&engine=google_scholar&hl=en",
+"cites_id":
+"14079772844833725515"
+},
+"year":
+"2023"
+},
+{
+"title":
+"Smart iomt framework for supporting uav systems with ai",
+"link":
+"https://scholar.google.com/citations?view_op=view_citation&hl=en&user=RqoQgLYAAAAJ&citation_for_view=RqoQgLYAAAAJ:d1gkVwhDpl0C",
+"citation_id":
+"RqoQgLYAAAAJ:d1gkVwhDpl0C",
+"authors":
+"N Shankar, MK Nallakaruppan, V Ravindranath, M Senthilkumar, ...",
+"publication":
+"Electronics 12 (1), 86, 2022",
+"cited_by":
+{
+"value":
+14,
+"link":
+"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2829911088022868614",
+"serpapi_link":
+"https://serpapi.com/search.json?cites=2829911088022868614&engine=google_scholar&hl=en",
+"cites_id":
+"2829911088022868614"
+},
+"year":
+"2022"
+},
+{
+"title":
+"Advancing solar energy integration: Unveiling XAI insights for enhanced power system management and sustainable future",
+"link":
+"https://scholar.google.com/citations?view_op=view_citation&hl=en&user=RqoQgLYAAAAJ&citation_for_view=RqoQgLYAAAAJ:qjMakFHDy7sC",
+"citation_id":
+"RqoQgLYAAAAJ:qjMakFHDy7sC",
+"authors":
+"MK Nallakaruppan, N Shankar, PB Bhuvanagiri, S Padmanaban, ...",
+"publication":
+"Ain Shams Engineering Journal 15 (6), 102740, 2024",
+"cited_by":
+{
+"value":
+7,
+"link":
+"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8903761437873651931",
+"serpapi_link":
+"https://serpapi.com/search.json?cites=8903761437873651931&engine=google_scholar&hl=en",
+"cites_id":
+"8903761437873651931"
+},
+"year":
+"2024"
+},
+{
+"title":
+"Diabetes Prediction Using Machine Learning and Flask",
+"link":
+"https://scholar.google.com/citations?view_op=view_citation&hl=en&user=RqoQgLYAAAAJ&citation_for_view=RqoQgLYAAAAJ:zYLM7Y9cAGgC",
+"citation_id":
+"RqoQgLYAAAAJ:zYLM7Y9cAGgC",
+"authors":
+"NKK Raju, K Krishnamurthy, BP Bhagavath, N Shankar, AM Janani, ...",
+"publication":
+"Biomedical and Pharmacology Journal 17 (2), 2024",
+"cited_by":
+{
+"value":
+1,
+"link":
+"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11305611699403645502",
+"serpapi_link":
+"https://serpapi.com/search.json?cites=11305611699403645502&engine=google_scholar&hl=en",
+"cites_id":
+"11305611699403645502"
+},
+"year":
+"2024"
+},
+{
+"title":
+"Novel lane and object detection technique using visual camera",
+"link":
+"https://scholar.google.com/citations?view_op=view_citation&hl=en&user=RqoQgLYAAAAJ&citation_for_view=RqoQgLYAAAAJ:UeHWp8X0CEIC",
+"citation_id":
+"RqoQgLYAAAAJ:UeHWp8X0CEIC",
+"authors":
+"A Namachivayam, R Karthik, KKR Nagabhushana, BP Bhagavath, ...",
+"publication":
+"AIP Conference Proceedings 2966 (1), 2024",
+"cited_by":
+{
+"value":
+},
+"year":
+"2024"
+},
+{
+"title":
+"An Affordable and Fully Functional Bionic Claw Using Myoelectric Signals for Physically Challenged",
+"link":
+"https://scholar.google.com/citations?view_op=view_citation&hl=en&user=RqoQgLYAAAAJ&citation_for_view=RqoQgLYAAAAJ:u-x6o8ySG0sC",
+"citation_id":
+"RqoQgLYAAAAJ:u-x6o8ySG0sC",
+"authors":
+"N Shankar, BP Bhagavath, N Avinash, NKK Raju, MM Subashini",
+"cited_by":
+{
+"value":
+},
+"year":
+"2022"
+},
+{
+"title":
+"Performance Comparison of Conventional and Intelligent method of Charge Estimation",
+"link":
+"https://scholar.google.com/citations?view_op=view_citation&hl=en&user=RqoQgLYAAAAJ&citation_for_view=RqoQgLYAAAAJ:u5HHmVD_uO8C",
+"citation_id":
+"RqoQgLYAAAAJ:u5HHmVD_uO8C",
+"authors":
+"N Shankar, A Chitra, D Banerjee, V Sharma, K Zhutshi, WR Sultana",
+"publication":
+"2021 Innovations in Power and Advanced Computing Technologies (i-PACT), 1-7, 2021",
+"cited_by":
+{
+"value":
+},
+"year":
+"2021"
+}
+],
+"cited_by":
+{
+"table":
+[
+{
+"citations":
+{
+"all":
+76,
+"since_2019":
+75
+}
+},
+{
+"h_index":
+{
+"all":
+3,
+"since_2019":
+3
+}
+},
+{
+"i10_index":
+{
+"all":
+2,
+"since_2019":
+2
+}
+}
+],
+"graph":
+[
+{
+"year":
+2023,
+"citations":
+19
+},
+{
+"year":
+2024,
+"citations":
+53
+}
+]
+},
+"co_authors":
+[
+{
+"name":
+"Prahal Bhagavath",
+"link":
+"https://scholar.google.com/citations?user=a8yU8W4AAAAJ&hl=en",
+"serpapi_link":
+"https://serpapi.com/search.json?author_id=a8yU8W4AAAAJ&engine=google_scholar_author&hl=en",
+"author_id":
+"a8yU8W4AAAAJ",
+"affiliations":
+"Student",
+"email":
+"Verified email at vitstudent.ac.in",
+"thumbnail":
+"https://scholar.googleusercontent.com/citations?view_op=small_photo&user=a8yU8W4AAAAJ&citpid=1"
+}
+]
+}
