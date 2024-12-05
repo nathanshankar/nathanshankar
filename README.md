@@ -1,14 +1,13 @@
-[![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnathanshankar%2Fnathanshankar%2Fmain%2Fgoogle_scholar_nathanshankar.json&query=%24.author.name&label=Google%20Scholar&color=red)](https://scholar.google.com/citations?hl=en&user=RqoQgLYAAAAJ)[![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnathanshankar%2Fnathanshankar%2Fmain%2Fgoogle_scholar_nathanshankar.json&query=%24.cited_by.table..citations.all&label=Citations&l)](https://scholar.google.com/citations?user=RqoQgLYAAAAJ&hl=en#d=gsc_md_hist&t=1712270442409)[![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnathanshankar%2Fnathanshankar%2Fmain%2Fgoogle_scholar_nathanshankar.json&query=%24.cited_by.table..h_index.all&label=h_index&)](https://scholar.google.com/citations?user=RqoQgLYAAAAJ&hl=en#d=gsc_md_hist&t=1712270442409)[![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnathanshankar%2Fnathanshankar%2Fmain%2Fgoogle_scholar_nathanshankar.json&query=%24.cited_by.table..i10_index.all&label=i10_index&color=blue)](https://scholar.google.com/citations?user=RqoQgLYAAAAJ&hl=en#d=gsc_md_hist&t=1712270442409)
+[![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnathanshankar%2Fnathanshankar%2Fmain%2Fgoogle_scholar_nathanshankar.json&query=%24.author.name&label=Google%20Scholar&color=red)](https://scholar.google.com/citations?user=RqoQgLYAAAAJ)
 
 
 
 ### Hi there, I'm Nathan Shankar 👋🤖
 
-[![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanshankar)](https://github.com/nathanshankar/github-readme-stats)
 
-![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanshankar&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nathanshankar&theme=dark)](https://github.com/nathanshankar/github-profile-trophy)
 
-![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanshankar&show_icons=true&theme=radical)
+[![stats](https://github-readme-stats.vercel.app/api?username=nathanshankar)](https://github.com/nathanshankar/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanshankar&layout=compact)
 
 <!--
 **nathanshankar/nathanshankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
