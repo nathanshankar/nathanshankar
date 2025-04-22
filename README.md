@@ -5,7 +5,7 @@
 ### Hi there, I'm Nathan Shankar 🦾🤖
 
 
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=nathanshankar&theme=dark)](https://github.com/nathanshankar/github-profile-trophy)-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=nathanshankar&theme=dark)](https://github.com/nathanshankar/github-profile-trophy)
 
 [![stats](https://github-readme-stats.vercel.app/api?username=nathanshankar)](https://github.com/nathanshankar/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanshankar&layout=compact)
 
