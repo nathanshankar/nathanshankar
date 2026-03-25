@@ -1,13 +1,13 @@
 {
   "functions": {
-    "api/index.py": {
-      "runtime": "vercel-python@0.0.1"
+    "api/scholar.py": {
+      "runtime": "python3.9"
     }
   },
-  "routes": [
+  "rewrites": [
     {
-      "src": "/api/scholar",
-      "dest": "/api/index.py"
+      "source": "/api/scholar",
+      "destination": "api/scholar.py"
     }
   ]
 }
