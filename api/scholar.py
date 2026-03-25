@@ -19,24 +19,26 @@ class handler(BaseHTTPRequestHandler):
             response = requests.get(url)
             data = response.json()
             
-            stats = data.get('cited_by', {}).get('table', [])
+            # The structure in google_scholar_nathan.json is:
+            # "cited_by": { "table": [ {"citations": {"all": 76...}}, {"h_index": {"all": 3...}}, {"i10_index": {"all": 2...}} ] }
+            stats_table = data.get('cited_by', {}).get('table', [])
             
-            if metric == 'citations':
-                value = str(stats[0].get('citations', {}).get('all', 0))
+            value = "0"
+            label = "metric"
+            color = "blue"
+
+            if metric == 'citations' and len(stats_table) > 0:
+                value = str(stats_table[0].get('citations', {}).get('all', 0))
                 label = "Citations"
                 color = "blue"
-            elif metric == 'h_index':
-                value = str(stats[1].get('h_index', {}).get('all', 0))
+            elif metric == 'h_index' and len(stats_table) > 1:
+                value = str(stats_table[1].get('h_index', {}).get('all', 0))
                 label = "h-index"
                 color = "orange"
-            elif metric == 'i10_index':
-                value = str(stats[2].get('i10_index', {}).get('all', 0))
+            elif metric == 'i10_index' and len(stats_table) > 2:
+                value = str(stats_table[2].get('i10_index', {}).get('all', 0))
                 label = "i10-index"
                 color = "brightgreen"
-            else:
-                value = "error"
-                label = "metric"
-                color = "red"
 
             result = {
                 "schemaVersion": 1,
@@ -47,7 +49,8 @@ class handler(BaseHTTPRequestHandler):
 
             self.send_response(200)
             self.send_header('Content-type', 'application/json')
-            self.send_header('Cache-Control', 's-maxage=3600, stale-while-revalidate') # Cache for 1 hour
+            # Cache for 1 hour to stay within SerpApi limits
+            self.send_header('Cache-Control', 's-maxage=3600, stale-while-revalidate')
             self.end_headers()
             self.wfile.write(json.dumps(result).encode())
             

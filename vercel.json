@@ -1,13 +1,8 @@
 {
-  "functions": {
-    "api/scholar.py": {
-      "runtime": "python3.9"
-    }
-  },
   "rewrites": [
     {
       "source": "/api/scholar",
-      "destination": "api/scholar.py"
+      "destination": "/api/scholar.py"
     }
   ]
 }
