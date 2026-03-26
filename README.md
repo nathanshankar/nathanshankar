@@ -3,7 +3,7 @@
 # Nathan Shankar
 **Research Engineer | Robotics & Artificial Intelligence**
 
-<img src="https://private-user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQ0ODYxNTUsIm5iZiI6MTc3NDQ4NTg1NSwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUzNDgtNDkxZTNlNDQtMTFhMC00ODdhLWIwN2ItNzE3ZjY3N2JiZTRhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzI2VDAwNDQxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3MDgxZWQyMTNhMWRlMzBlM2M5ZjI5ZTcxOGZmZWY4NTAyNGEyYWI0OTU0YTYzZTJmZTRjMmIwZTY0NTk5N2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Y38sEqoVBLtuGcHY9WDEmJ_dkd7OfFE_cxyJY4YworY" alt="drawing" width="100"/>
+<img src="https://private-user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQ0ODYxNTUsIm5iZiI6MTc3NDQ4NTg1NSwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUzNDgtNDkxZTNlNDQtMTFhMC00ODdhLWIwN2ItNzE3ZjY3N2JiZTRhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzI2VDAwNDQxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3MDgxZWQyMTNhMWRlMzBlM2M5ZjI5ZTcxOGZmZWY4NTAyNGEyYWI0OTU0YTYzZTJmZTRjMmIwZTY0NTk5N2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Y38sEqoVBLtuGcHY9WDEmJ_dkd7OfFE_cxyJY4YworY" alt="drawing" width="200"/>
 
 ---
 [![Research Webpage](https://img.shields.io/badge/Research_Webpage-333333?style=flat-square&logo=googlechrome&logoColor=white)](https://ladoszlabs.github.io/dark-nav/)
@@ -21,8 +21,11 @@
 </div>
 
 ---
+<div align="center">
 
 ### Research Interests
+</div>
+
 I am a researcher focused on the intersection of **Robotics** and **Artificial Intelligence**. My work involves developing autonomous systems, exploring computer vision applications, and implementing machine learning solutions for complex engineering environments. Currently, I am associated with the **University of Manchester**, working on advanced navigation and autonomous systems.
 
 - **Primary Focus:** Autonomous Navigation, AI-driven Robotics, Computer Vision
