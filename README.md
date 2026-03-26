@@ -1,3 +1,6 @@
+![Status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/559486137484312598?simple=true)
+![Activity](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/559486137484312598)
+![VS Code](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/559486137484312598)
 # Nathan Shankar [![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fnathanshankar.vercel.app%2Fapi%2Fscholar%3Fmetric%3Dcitations&style=flat-square)](https://scholar.google.com/citations?user=RqoQgLYAAAAJ) [![h-index](https://img.shields.io/endpoint?url=https%3A%2F%2Fnathanshankar.vercel.app%2Fapi%2Fscholar%3Fmetric%3Dh_index&style=flat-square)](https://scholar.google.com/citations?user=RqoQgLYAAAAJ) [![i10-index](https://img.shields.io/endpoint?url=https%3A%2F%2Fnathanshankar.vercel.app%2Fapi%2Fscholar%3Fmetric%3Di10_index&style=flat-square)](https://scholar.google.com/citations?user=RqoQgLYAAAAJ)
 
 **Research Engineer | Robotics & Artificial Intelligence**
