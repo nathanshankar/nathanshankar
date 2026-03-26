@@ -1,7 +1,7 @@
 <div align="center">
 
 # Nathan Shankar
-[![Status](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F559486137484312598&query=%24.data.discord_status&label=Status&color=2eb086&style=flat-square)](https://discord.com/users/559486137484312598)
+[![Status](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F559486137484312598&query=%24.data.discord_status&label=Status&color=2eb086&style=flat-square)](https://discord.com/users/559486137484312598) [![Currently](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F559486137484312598&query=%24.data.activities.0.name&label=Currently&style=flat-square)](https://discord.com/users/559486137484312598)
 
 **Research Engineer | Robotics & Artificial Intelligence**
 
