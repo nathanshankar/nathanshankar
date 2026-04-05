@@ -59,9 +59,9 @@ I am a researcher focused on the intersection of **Robotics** and **Artificial I
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nathanshankar&theme=github-dark-orange&hide_border=true)](https://github.com/nathanshankar/github-readme-activity-graph)
 
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=nathanshankar&show_icons=true&theme=dark&hide_border=true)](https://github.com/nathanshankar/github-readme-stats) 
+<!---[![Stats](https://github-readme-stats.vercel.app/api?username=nathanshankar&show_icons=true&theme=dark&hide_border=true)](https://github.com/nathanshankar/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanshankar&layout=compact&theme=dark&hide_border=true)](https://github.com/nathanshankar/github-readme-stats) 
-
+-->
 </div>
 
 ---
